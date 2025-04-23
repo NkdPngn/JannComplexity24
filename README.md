@@ -1,1 +1,4 @@
-Scan data were available of subjects' scans as follows: T1, resting fMRI, test fMRI runs 1 and 2. Not all subjects had all of these scans. These are the results of running scripts used to find subjects whose fMRI scans were present in all OCD or all control directories: OCD T1, resting fMRI, test fMRI run1 and 2 and Control T1, resting fMRI, test fMRI run1 and 2. There are some intermediate steps, as it was not possible to run more than 1500 subjects simultaneously on the computing cluster. 
+This project comprises scripts, results and statistical analyses of T1, resting fMRI, test fMRI runs 1 and 2 scans of >1500 subjects from the ABCD - OCD database of adolescent OCD patients and controls. The goal of the project was to highlight which brain areas and circuits are more involved in OCD patients vs. controls, and to determine relative brain complexity between the two groups.
+
+The scripts can be found mainly in the files with names like "copying files"; results and lists of subjects are in the "text files" folders.
+
